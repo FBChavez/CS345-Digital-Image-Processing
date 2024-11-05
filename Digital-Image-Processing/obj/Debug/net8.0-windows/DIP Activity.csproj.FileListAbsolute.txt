@@ -1,0 +1,17 @@
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\bin\Debug\net8.0-windows\DIP Activity.exe
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\bin\Debug\net8.0-windows\DIP Activity.deps.json
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\bin\Debug\net8.0-windows\DIP Activity.runtimeconfig.json
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\bin\Debug\net8.0-windows\DIP Activity.dll
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\bin\Debug\net8.0-windows\DIP Activity.pdb
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP_Activity.Form1.resources
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP Activity.csproj.GenerateResource.cache
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP Activity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP Activity.AssemblyInfoInputs.cache
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP Activity.AssemblyInfo.cs
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP Activity.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP Activity.sourcelink.json
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP Activity.dll
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\refint\DIP Activity.dll
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP Activity.pdb
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\DIP Activity.genruntimeconfig.cache
+C:\Users\Acer Aspire 7\Source\Repos\Digital-Image-Processing\obj\Debug\net8.0-windows\ref\DIP Activity.dll
